@@ -21,15 +21,13 @@ Autor: Luis Angel Torres Grimaldo, Estudiante de Ingeniería en Tecnologías de 
 Ubicación: Universidad Politécnica de Victoria. Ciudad Victoria, Tamaulipas - México.
 
 Descripción:
-  Es un proyecto elaborado para la materia de Minería de Datos. Consta de la implementación de una red neuronal con objetivo
-  de clasificación, la cual consta de 3 capas:
+  Es un proyecto elaborado para la materia de Minería de Datos. Consta de la implementación de una RBFN como alternativa de perceptrón multicapa, la cual consta de 3 capas:
   
     - Capa entrada
     - Capa oculta
     - Capa de salida
     
-  Se podría decir que esta implementación es una implementación de un algoritmo híbrido ya que primero se utiliza el kmeans
-  para definir los k-centroides necesarios para la RBFN.
+  Se podría decir que esta implementación es una implementación de un algoritmo híbrido ya que primero se utiliza el kmeans        (aprendizaje no supervizado) para definir los k-centroides necesarios para la RBFN (aprendizaje supervizado).
   
   En particular esta implementación trabaja con 4 datasets, todo de forma sistemática y para cada dataset se ejecuta con los
   valores de k=3 hasta k=8, en otras palabras para cada dataset se implementa la RBFN 6 veces con distintos valores de k.
