@@ -5,11 +5,11 @@ si es de ayuda para alguien más mejor.
 Se considera que como conocimientos previos para el análisis de esta implementación en python se necesita saber al menos qué es
 cada cosa:
 
--Clustering
--Machin Learning
--Básico de programación en Python (La documentación de python y sus librerias es muy amigable)
--¿Qué es un dataset?
--Algoritmo kmeans
+  - Clustering
+  - Machin Learning
+  - Básico de programación en Python (La documentación de python y sus librerias es muy amigable)
+  - ¿Qué es un dataset?
+  - Algoritmo kmeans
 
 -------------------------------------------------------------------------------------------------------------------------------
 
