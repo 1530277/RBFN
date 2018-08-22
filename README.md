@@ -1,7 +1,7 @@
 # RBFN
 El principal motivo de que suba mi trabajo a la plataforma es tener un respaldo de éste ya que le invertí un buen tiempo y
 si es de ayuda para alguien más mejor. Además, hay un PDF dónde se describe de forma "no matemática" el algoritmo o la gran
-mayoría de la implementación.
+mayoría de la implementación. Para ejecutar el programa en tu equipo solo hay que descargar el repositorio y cambiar la dirección de la variable "path" que se encuentra en el main. La ruta que se debe cambiar es la ruta donde se encuentran los dataset.
 -------------------------------------------------------------------------------------------------------------------------------
 Se considera que como conocimientos previos para el análisis de esta implementación en python se necesita saber al menos qué es
 cada cosa:
